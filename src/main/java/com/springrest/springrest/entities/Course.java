@@ -1,4 +1,4 @@
-package com.springrest.springrest;
+package com.springrest.springrest.entities;
 
 public class Course {
     
